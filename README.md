@@ -21,9 +21,8 @@ Portfolio of completed projects I worked on while attending the BI Analyst Tripl
 - **Data Cleaning & Transformation**
 - **Exploratory Data Analysis (EDA)**
 - **Data Visualization**
-  
-💡 **Key Insights**: 
-- Actionable recommendations for optimizing business strategies and improving customer satisfaction across all projects.  
+- **KPIs**
+ 
 
 📢 **Let’s Connect**:
 - You can reach me via [LinkedIn](https://www.linkedin.com/in/tasha-curtis-9ba5864b/) or [Email](curtistasha@gmail.com).
