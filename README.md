@@ -13,18 +13,14 @@ Portfolio of completed projects I worked on while attending the BI Analyst Tripl
 | 🍴 5 | [**Zomato Restaurants**](https://public.tableau.com/views/UpdatedZomatoAnalysis/ZomatosRestaurantAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Analysis of Zomato’s restaurant data, exploring customer behavior, restaurant performance, and sales trends. Key findings highlight top-performing restaurants and opportunities for revenue growth. **Tools**: **Tableau**, **Data Cleaning**, **Business Insights**. |
 | ☕ 6 | [**Coffee Shop Sales Analysis**](https://public.tableau.com/app/profile/tasha.curtis/viz/CoffeeShopDataset_17421543632310/Dashboard1?publish=yes) | A data-driven analysis of a coffee shop’s sales trends, product performance, and customer behavior. **Key insights include:** best-selling products, **peak sales hours**, and missed revenue opportunities. **Tools**: **Tableau**, **Google Sheets**. |
 | 🏨 7 | [**Hotel Stays Insights**](https://public.tableau.com/views/HotelBooking_TLC/HotelManagementDashboard?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&publish=yes&%3AshowVizHome=n&%3AapiID=host0#navType=0&navSrc=Parse) | An in-depth look into **hotel booking trends**, room occupancy rates, and customer preferences. This project uncovers **seasonal trends** and **revenue opportunities** in the hospitality industry. **Tools**: **Tableau**, **Python**, **Google Sheets**. |
-
-| 🏬 8 |  [**Warehouse Sales Dashboard**] (https://public.tableau.com/app/profile/tasha.curtis/viz/Warehouse_Sales/Story1?publish=yes) |
-
+| 🏬 8 |  [**Warehouse Sales Dashboard**](https://public.tableau.com/app/profile/tasha.curtis/viz/Warehouse_Sales/Story1?publish=yes) |
 ## 📊 Project Overview
 This dashboard provides a detailed analysis of **warehouse sales performance** across regions, products, and time periods. The goal is to identify high-performing items, understand regional distribution trends, and highlight revenue growth opportunities.
-
 ## 🔍 Key Insights
 - **Top Products**: Identifies which products generate the most revenue and sales volume.
 - **Regional Breakdown**: Tracks warehouse sales by location to highlight demand patterns.
 - **Monthly Trends**: Analyzes monthly sales performance to detect growth trends or seasonal fluctuations.
 - **Category Performance**: Visualizes the strongest and weakest product categories over time.
-
 ## 🛠️ Tools Used
 - **Tableau** – for dashboard creation and interactive visual storytelling
 - **Google Sheets** – for cleaning and prepping the dataset
